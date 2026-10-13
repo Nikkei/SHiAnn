@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.ruff_cache/
+
+# Virtual environments
+.venv
+.env
+
+# Local
+external/
+data/nikkei_newspaper_articles.csv
+data/dataset.json
